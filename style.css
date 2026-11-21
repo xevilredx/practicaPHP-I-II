@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.cont-principal {
+    width: 700px;
+    /* margin-top: auto;
+    margin-bottom: auto; */
+    margin-bottom: 100px;
+}
+/* Al menos algo debia poner en el style, todo lo demas ya quedaba bonito con el bootstrap x'd */
+
+body{
+    background-image: url('https://wallpapers.com/images/featured/mejores-fondods-para-pc-de-escritorio-yl57pwibcq8tk2b6.jpg');
+    background-size: cover;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* background-position: center; */
+    /* Esto hacia que se duplique en la aprte de abajo */
+}
+/* Al menos unos fondito para que no se vea tan corporativo */
+
+.formulario{
+    background-image: url('https://marketplace.canva.com/oN22w/MAG1SxoN22w/1/tl/canva-textura-de-acuarela-azul-con-fondo-de-puntos-blancos-MAG1SxoN22w.png');
+    background-size: cover;
+    background-position: center;
+}
+
+/* og me gusta, esta estilo frutiger aero */
